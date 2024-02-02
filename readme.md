@@ -20,8 +20,8 @@ Simple Omelette Recipe Landing Page
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Igho-Okeoghene/Recipe-pag](https://github.com/Igho-Okeoghene/Recipe-page)
+- Live Site URL: [https://igho-okeoghene.github.io/Recipe-page/](https://igho-okeoghene.github.io/Recipe-page/)
 
 ### Built with
 
