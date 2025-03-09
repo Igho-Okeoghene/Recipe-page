@@ -9,7 +9,7 @@ main {
   color: hsl(30, 10%, 34%);
   font-weight: 400;
   font-family: "Outfit", sans-serif;
-  width: 350px;
+  width: 500px;
   background-color: white;
 }
 img {
@@ -82,7 +82,6 @@ td {
     margin-top: 100px;
     margin-bottom: 100px;
     border-radius: 20px;
-    width: 500px;
   }
   body {
     background-color: hsl(30, 54%, 90%);
