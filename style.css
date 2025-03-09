@@ -9,7 +9,7 @@ main {
   color: hsl(30, 10%, 34%);
   font-weight: 400;
   font-family: "Outfit", sans-serif;
-  width: 500px;
+  width: 350px;
   background-color: white;
 }
 img {
@@ -61,9 +61,6 @@ table {
   margin-top: 25px;
 }
 tr {
-  display: flex;
-  column-gap: 60px;
-  border-bottom: 2px solid hsl(30, 18%, 87%);
   padding: 10px;
   margin-bottom: 5px;
 }
@@ -75,6 +72,7 @@ td {
   font-weight: 600;
   margin-bottom: 5px;
   max-width: 300px;
+  border-bottom: 2px solid hsl(30, 18%, 87%);
 }
 /*Media Query min. width: 1024*/
 @media screen and (min-width: 700px) {
@@ -84,6 +82,7 @@ td {
     margin-top: 100px;
     margin-bottom: 100px;
     border-radius: 20px;
+    width: 500px;
   }
   body {
     background-color: hsl(30, 54%, 90%);
