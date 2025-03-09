@@ -61,6 +61,9 @@ table {
   margin-top: 25px;
 }
 tr {
+  display: flex;
+  column-gap: 60px;
+  border-bottom: 2px solid hsl(30, 18%, 87%);
   padding: 10px;
   margin-bottom: 5px;
 }
@@ -71,10 +74,7 @@ td {
   padding: 10px 50px 10px 30px;
   font-weight: 600;
   margin-bottom: 5px;
-  max-width: 450px;
-  border-bottom: 2px solid hsl(30, 18%, 87%);
-  display: flex;
-  column-gap: 120px;
+  max-width: 300px;
 }
 /*Media Query min. width: 1024*/
 @media screen and (min-width: 700px) {
