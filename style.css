@@ -76,7 +76,9 @@ td {
   max-width: 100%;
   border-bottom: 2px solid hsl(30, 18%, 87%);
 }
-
+span{
+  padding-left: 7rem;
+}
 /*Media Query min. width: 1024*/
 @media screen and (min-width: 700px) {
   main {
