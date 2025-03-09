@@ -68,12 +68,10 @@ tr {
   color: hsl(14, 45%, 36%);
 }
 td {
-  display: flex;
-  justify-content: space-between;
   padding: 10px 50px 10px 30px;
   font-weight: 600;
   margin-bottom: 5px;
-  max-width: 100%;
+  max-width: 450px;
   border-bottom: 2px solid hsl(30, 18%, 87%);
 }
 span{
