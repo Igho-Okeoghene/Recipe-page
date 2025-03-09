@@ -75,7 +75,7 @@ td {
   border-bottom: 2px solid hsl(30, 18%, 87%);
 }
 /*Media Query min. width: 1024*/
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 500px) {
   main {
     padding: 30px;
     margin: 0 auto;
